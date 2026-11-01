@@ -1,0 +1,298 @@
+﻿restaurant_name,cuisine,ratings,cost_for_two,address,restaurant_url,osm_id,osm_record_url,latitude,longitude,source,collected_at
+Dhaba,indian;burger;pizza,,,,,node/1783122342,https://www.openstreetmap.org/node/1783122342,22.528216,88.3657893,OpenStreetMap,2026-11-01T10:27:42.237106+00:00
+"Shiv Sai Hotel, South Indian Restaurant",indian,,,,,node/1784288704,https://www.openstreetmap.org/node/1784288704,22.5747278,88.4140635,OpenStreetMap,2026-11-01T10:27:42.237175+00:00
+Banana Leaf,indian,,,"73 & 75 Rash Behari Avenue, 7000 026",http://www.bananaleaf.in/restaurant.html,node/1833168504,https://www.openstreetmap.org/node/1833168504,22.5170043,88.3493188,OpenStreetMap,2026-11-01T10:27:42.237208+00:00
+Bar-B-Que,chinese;indian,,,Park Street,,node/1833181230,https://www.openstreetmap.org/node/1833181230,22.5530816,88.3526293,OpenStreetMap,2026-11-01T10:27:42.237236+00:00
+Azad Hind Dhaba,,,,,,node/2173318416,https://www.openstreetmap.org/node/2173318416,22.5807228,88.4379726,OpenStreetMap,2026-11-01T10:27:42.237259+00:00
+Oh! Calcutta,,,,"10/3, Elgin Road, Kolkata, 700020",https://www.speciality.co.in/,node/2234881738,https://www.openstreetmap.org/node/2234881738,22.5380621,88.3512175,OpenStreetMap,2026-11-01T10:27:42.237288+00:00
+Big Max,,,,"1A, Russel Street, Kolkata, 700071",,node/2283710597,https://www.openstreetmap.org/node/2283710597,22.5537703,88.351111,OpenStreetMap,2026-11-01T10:27:42.237307+00:00
+Alibaba,,,,,,node/2454098351,https://www.openstreetmap.org/node/2454098351,22.5721537,88.4325447,OpenStreetMap,2026-11-01T10:27:42.237322+00:00
+BB's,,,,,,node/2454098354,https://www.openstreetmap.org/node/2454098354,22.5771253,88.4256814,OpenStreetMap,2026-11-01T10:27:42.237341+00:00
+Bowler's Den,,,,,,node/2461185548,https://www.openstreetmap.org/node/2461185548,22.5725403,88.4213668,OpenStreetMap,2026-11-01T10:27:42.237356+00:00
+Oh Calcutta!,,,,,,node/2461251700,https://www.openstreetmap.org/node/2461251700,22.5491395,88.4006556,OpenStreetMap,2026-11-01T10:27:42.237371+00:00
+Mainland China,,,,,,node/2461251704,https://www.openstreetmap.org/node/2461251704,22.5491137,88.4006192,OpenStreetMap,2026-11-01T10:27:42.237400+00:00
+Sigree,,,,,,node/2461251707,https://www.openstreetmap.org/node/2461251707,22.5490835,88.4005692,OpenStreetMap,2026-11-01T10:27:42.237432+00:00
+China One,,,,,,node/2461349478,https://www.openstreetmap.org/node/2461349478,22.5711968,88.4342873,OpenStreetMap,2026-11-01T10:27:42.237463+00:00
+Red Hot Chilli Peppers,,,,,,node/2461363357,https://www.openstreetmap.org/node/2461363357,22.5706247,88.431817,OpenStreetMap,2026-11-01T10:27:42.237484+00:00
+Lazeez,,,,,,node/2464357907,https://www.openstreetmap.org/node/2464357907,22.5820149,88.449519,OpenStreetMap,2026-11-01T10:27:42.237493+00:00
+Penguin,,,,,,node/2464357917,https://www.openstreetmap.org/node/2464357917,22.5823742,88.4500652,OpenStreetMap,2026-11-01T10:27:42.237501+00:00
+Monginis,,,,,,node/2464548275,https://www.openstreetmap.org/node/2464548275,22.5821009,88.4537024,OpenStreetMap,2026-11-01T10:27:42.237511+00:00
+Aaheli,,,,,,node/2464548340,https://www.openstreetmap.org/node/2464548340,22.579798,88.4598119,OpenStreetMap,2026-11-01T10:27:42.237519+00:00
+Eco Hub,,,,,,node/2464908635,https://www.openstreetmap.org/node/2464908635,22.5855338,88.4902925,OpenStreetMap,2026-11-01T10:27:42.237527+00:00
+Hangout,,,,,,node/2464908637,https://www.openstreetmap.org/node/2464908637,22.5856071,88.4901735,OpenStreetMap,2026-11-01T10:27:42.237536+00:00
+Aminia,indian,,,,,node/2560440346,https://www.openstreetmap.org/node/2560440346,22.5168146,88.3668699,OpenStreetMap,2026-11-01T10:27:42.237549+00:00
+Zeeshan,indian,,,Kolkata,,node/2561264392,https://www.openstreetmap.org/node/2561264392,22.5413282,88.365897,OpenStreetMap,2026-11-01T10:27:42.237560+00:00
+Krazy Kebab,,,,,,node/2561266540,https://www.openstreetmap.org/node/2561266540,22.5412056,88.3649509,OpenStreetMap,2026-11-01T10:27:42.237568+00:00
+Arsalan,indian,,,,,node/2599246808,https://www.openstreetmap.org/node/2599246808,22.5539364,88.354238,OpenStreetMap,2026-11-01T10:27:42.237576+00:00
+Nalban Food Court,indian,,,,,node/2802912903,https://www.openstreetmap.org/node/2802912903,22.5693637,88.429062,OpenStreetMap,2026-11-01T10:27:42.237586+00:00
+O-Zone Restaurant cum Bar,indian,,,,,node/2848998682,https://www.openstreetmap.org/node/2848998682,22.6170413,88.4312838,OpenStreetMap,2026-11-01T10:27:42.237596+00:00
+Super Fried Chicken,indian,,,,,node/2934412979,https://www.openstreetmap.org/node/2934412979,22.5579185,88.3542707,OpenStreetMap,2026-11-01T10:27:42.237604+00:00
+Sumalia's Restaurant,indian,,,"60, Bhattacharyya Street, Murshidabad",,node/3048206319,https://www.openstreetmap.org/node/3048206319,22.4124207,88.331841,OpenStreetMap,2026-11-01T10:27:42.237614+00:00
+Kasturi,indian,,,"53/1/3, Hazra Road",,node/3051834901,https://www.openstreetmap.org/node/3051834901,22.5272299,88.3673113,OpenStreetMap,2026-11-01T10:27:42.237626+00:00
+Bhojohori Manna,indian,,,,https://g.co/kgs/DtMWJg,node/3406728168,https://www.openstreetmap.org/node/3406728168,22.5940626,88.3708345,OpenStreetMap,2026-11-01T10:27:42.237635+00:00
+Thali,,,,,,node/3410845680,https://www.openstreetmap.org/node/3410845680,22.5157564,88.3890097,OpenStreetMap,2026-11-01T10:27:42.237647+00:00
+Harvey's,international,,,,,node/3410883893,https://www.openstreetmap.org/node/3410883893,22.5145174,88.3903212,OpenStreetMap,2026-11-01T10:27:42.237655+00:00
+Boudir Hotel,,,,,,node/3410900529,https://www.openstreetmap.org/node/3410900529,22.5150486,88.390121,OpenStreetMap,2026-11-01T10:27:42.237664+00:00
+Naushijaan,indian,,,,,node/3410912769,https://www.openstreetmap.org/node/3410912769,22.5152352,88.389897,OpenStreetMap,2026-11-01T10:27:42.237672+00:00
+Tero Parbon,indian,,,,,node/3412216017,https://www.openstreetmap.org/node/3412216017,22.5167773,88.362768,OpenStreetMap,2026-11-01T10:27:42.237681+00:00
+Bistro By The Park,international,,,,,node/3565444993,https://www.openstreetmap.org/node/3565444993,22.5514184,88.3523648,OpenStreetMap,2026-11-01T10:27:42.237689+00:00
+Peter Cat,international,,,,,node/3565448998,https://www.openstreetmap.org/node/3565448998,22.5524479,88.3526151,OpenStreetMap,2026-11-01T10:27:42.237700+00:00
+Golden City,chinese,,,,,node/3677394125,https://www.openstreetmap.org/node/3677394125,22.5803577,88.4117447,OpenStreetMap,2026-11-01T10:27:42.237708+00:00
+Pizza Hut,pizza,,,,,node/3677394127,https://www.openstreetmap.org/node/3677394127,22.5879437,88.4081651,OpenStreetMap,2026-11-01T10:27:42.237717+00:00
+Baati Chokha,north_indian;indian,,,"14, Kolkata",,node/3810110642,https://www.openstreetmap.org/node/3810110642,22.5831782,88.4093957,OpenStreetMap,2026-11-01T10:27:42.237726+00:00
+Haji Saheb,regional,,,,,node/4147768799,https://www.openstreetmap.org/node/4147768799,22.4997456,88.3173187,OpenStreetMap,2026-11-01T10:27:42.237738+00:00
+Khalique,,,,,,node/4175474991,https://www.openstreetmap.org/node/4175474991,22.5567426,88.3538825,OpenStreetMap,2026-11-01T10:27:42.237747+00:00
+Saima Restaurant,,,,,,node/4176886189,https://www.openstreetmap.org/node/4176886189,22.5412729,88.347365,OpenStreetMap,2026-11-01T10:27:42.237755+00:00
+Blue Sky Cafe,,,,,,node/4247989992,https://www.openstreetmap.org/node/4247989992,22.558079,88.353034,OpenStreetMap,2026-11-01T10:27:42.237763+00:00
+IRCTC Janaahar,,,,,,node/4253065490,https://www.openstreetmap.org/node/4253065490,22.580719,88.3418438,OpenStreetMap,2026-11-01T10:27:42.237771+00:00
+Gaylord's,,,,,,node/4368070793,https://www.openstreetmap.org/node/4368070793,22.558407,88.352278,OpenStreetMap,2026-11-01T10:27:42.237780+00:00
+Zaranj,indian,,,,,node/4368075292,https://www.openstreetmap.org/node/4368075292,22.558632,88.350717,OpenStreetMap,2026-11-01T10:27:42.237788+00:00
+Khalsa,indian,,,,,node/4368161895,https://www.openstreetmap.org/node/4368161895,22.558779,88.352486,OpenStreetMap,2026-11-01T10:27:42.237799+00:00
+MOMO PLAZA,,,,"2A, Suburban Hospital Road, Kolkata, 700020",,node/4377409089,https://www.openstreetmap.org/node/4377409089,22.539183,88.347101,OpenStreetMap,2026-11-01T10:27:42.237809+00:00
+ZAM ZAM,indian,,,,,node/4377474296,https://www.openstreetmap.org/node/4377474296,22.552713,88.367282,OpenStreetMap,2026-11-01T10:27:42.237820+00:00
+Shila,,,,,,node/4393259889,https://www.openstreetmap.org/node/4393259889,22.5413075,88.3500109,OpenStreetMap,2026-11-01T10:27:42.237831+00:00
+Kewpie's,bengali;indian,,,"2, Elgin Lane, 700020",,node/4393259890,https://www.openstreetmap.org/node/4393259890,22.5365892,88.3509509,OpenStreetMap,2026-11-01T10:27:42.237841+00:00
+Golden Dragon,chinese,,,,,node/4556752669,https://www.openstreetmap.org/node/4556752669,22.5529427,88.353328,OpenStreetMap,2026-11-01T10:27:42.237850+00:00
+Indian Coffee House,coffee_shop;indian,,,"15, Bankim Chatterjee Street, 700 073",,node/4571180589,https://www.openstreetmap.org/node/4571180589,22.576097,88.3638913,OpenStreetMap,2026-11-01T10:27:42.237859+00:00
+Tiwari Pure Vegetarian Restaurant,,,,,,node/4638153190,https://www.openstreetmap.org/node/4638153190,22.5624082,88.3524888,OpenStreetMap,2026-11-01T10:27:42.237868+00:00
+6 Ballygunge Place,regional,,,,,node/4679601931,https://www.openstreetmap.org/node/4679601931,22.5902422,88.4092378,OpenStreetMap,2026-11-01T10:27:42.237876+00:00
+Afraa,,,,,,node/4679622353,https://www.openstreetmap.org/node/4679622353,22.5872971,88.4078096,OpenStreetMap,2026-11-01T10:27:42.237884+00:00
+Fire and Ice,italian,,,,https://www.fireandicepizzeria.com/,node/4680388490,https://www.openstreetmap.org/node/4680388490,22.5496197,88.3493166,OpenStreetMap,2026-11-01T10:27:42.237893+00:00
+Bharat Biryani,,,,,,node/4715467290,https://www.openstreetmap.org/node/4715467290,22.5721119,88.3524008,OpenStreetMap,2026-11-01T10:27:42.237902+00:00
+Mirch Masala,north_indian;regional;burger;pizza,,,,,node/4716442224,https://www.openstreetmap.org/node/4716442224,22.5232061,88.36471,OpenStreetMap,2026-11-01T10:27:42.237910+00:00
+Pawan Putra,indian,,,,,node/4841301732,https://www.openstreetmap.org/node/4841301732,22.5684922,88.3911795,OpenStreetMap,2026-11-01T10:27:42.237921+00:00
+Hot Kati Roll,,,,,,node/4859072221,https://www.openstreetmap.org/node/4859072221,22.5548233,88.3509058,OpenStreetMap,2026-11-01T10:27:42.237930+00:00
+Raj's Spanish Restaurant,,,,,,node/4865708823,https://www.openstreetmap.org/node/4865708823,22.5583658,88.3541137,OpenStreetMap,2026-11-01T10:27:42.237938+00:00
+Taj Continental Restaurant,,,,,,node/4881322221,https://www.openstreetmap.org/node/4881322221,22.5580809,88.3539162,OpenStreetMap,2026-11-01T10:27:42.237946+00:00
+Arsalan Restaurant,regional,,,,https://arsalanrestaurants.com/,node/4937969021,https://www.openstreetmap.org/node/4937969021,22.5438718,88.3659522,OpenStreetMap,2026-11-01T10:27:42.237956+00:00
+1658,,,,"26, Chowringhee Road",,node/4974790724,https://www.openstreetmap.org/node/4974790724,22.561284,88.3509238,OpenStreetMap,2026-11-01T10:27:42.237965+00:00
+Bhojohori Manna 6,,,,"18/1, Hindustan Road",,node/4974790923,https://www.openstreetmap.org/node/4974790923,22.5202079,88.3608602,OpenStreetMap,2026-11-01T10:27:42.237973+00:00
+Teej,,,,"2, Russell",,node/4974974022,https://www.openstreetmap.org/node/4974974022,22.5556205,88.3524059,OpenStreetMap,2026-11-01T10:27:42.237982+00:00
+10 Downing Street,,,,,,node/5041514560,https://www.openstreetmap.org/node/5041514560,22.5690331,88.4339223,OpenStreetMap,2026-11-01T10:27:42.237990+00:00
+Kareem's,,,,,,node/5041514561,https://www.openstreetmap.org/node/5041514561,22.5690916,88.4340607,OpenStreetMap,2026-11-01T10:27:42.238001+00:00
+Genuine Broaster Chicken,,,,,,node/5041514562,https://www.openstreetmap.org/node/5041514562,22.5687155,88.4348793,OpenStreetMap,2026-11-01T10:27:42.238012+00:00
+Barbeque Nation,barbecue,,,,,node/5041514563,https://www.openstreetmap.org/node/5041514563,22.5689582,88.4332261,OpenStreetMap,2026-11-01T10:27:42.238021+00:00
+Tea Junction,,,,,,node/5041514564,https://www.openstreetmap.org/node/5041514564,22.5688496,88.4334902,OpenStreetMap,2026-11-01T10:27:42.238029+00:00
+One Sports Lounge,,,,,,node/5041514572,https://www.openstreetmap.org/node/5041514572,22.5691178,88.4335094,OpenStreetMap,2026-11-01T10:27:42.238038+00:00
+Ocean Grill,,,,,,node/5041514573,https://www.openstreetmap.org/node/5041514573,22.5692375,88.4333509,OpenStreetMap,2026-11-01T10:27:42.238046+00:00
+Tak Heng,chinese,,,,,node/5073437018,https://www.openstreetmap.org/node/5073437018,22.5148914,88.3575934,OpenStreetMap,2026-11-01T10:27:42.238054+00:00
+Amber,,,,,,node/5151679224,https://www.openstreetmap.org/node/5151679224,22.5673829,88.3517641,OpenStreetMap,2026-11-01T10:27:42.238064+00:00
+Jyoti Vihar,,,,,,node/5151716324,https://www.openstreetmap.org/node/5151716324,22.5471824,88.3505072,OpenStreetMap,2026-11-01T10:27:42.238073+00:00
+6 Ballygunge Place,regional,,,"53/1/3, Hazra Road",,node/5151718328,https://www.openstreetmap.org/node/5151718328,22.5277993,88.3686373,OpenStreetMap,2026-11-01T10:27:42.238081+00:00
+Ammini,,,,,,node/5151718336,https://www.openstreetmap.org/node/5151718336,22.5208883,88.3528505,OpenStreetMap,2026-11-01T10:27:42.238090+00:00
+Bohemian,regional;burger;pizza,,,,,node/5151718435,https://www.openstreetmap.org/node/5151718435,22.5294939,88.3687965,OpenStreetMap,2026-11-01T10:27:42.238101+00:00
+Tasty Corner,pizza;regional,,,"8, Mandeville Gardens",,node/5153778328,https://www.openstreetmap.org/node/5153778328,22.5245348,88.3669534,OpenStreetMap,2026-11-01T10:27:42.238110+00:00
+Moghal Biryani,,,,,,node/5169243925,https://www.openstreetmap.org/node/5169243925,22.5528511,88.3627796,OpenStreetMap,2026-11-01T10:27:42.238118+00:00
+Broadway Hotel,,,,Ganesh Chandra Road,,node/5246633421,https://www.openstreetmap.org/node/5246633421,22.568302,88.3557366,OpenStreetMap,2026-11-01T10:27:42.238126+00:00
+Rajdhani,indian,,,Park Street,,node/5247703122,https://www.openstreetmap.org/node/5247703122,22.5536207,88.3520567,OpenStreetMap,2026-11-01T10:27:42.238135+00:00
+Ruchika,,,,,,node/5273034922,https://www.openstreetmap.org/node/5273034922,22.5606952,88.351802,OpenStreetMap,2026-11-01T10:27:42.238143+00:00
+Sea Voi Eating House,,,,,,node/5295758422,https://www.openstreetmap.org/node/5295758422,22.5736239,88.3563641,OpenStreetMap,2026-11-01T10:27:42.238154+00:00
+Balwant Singh's Eating House,indian,,,"10/B, Harish Mukherjee Road, 700025",,node/5303024722,https://www.openstreetmap.org/node/5303024722,22.5377827,88.344129,OpenStreetMap,2026-11-01T10:27:42.238163+00:00
+Radhuni Restaurant,bengali;indian;breakfast;local,,,"17G, Mirza Ghalib Street, 700 016",,node/5324969923,https://www.openstreetmap.org/node/5324969923,22.5569289,88.3547528,OpenStreetMap,2026-11-01T10:27:42.238171+00:00
+My Big Fat Belly,burger;sandwich;italian;italian_pizza,,,,,node/5339103821,https://www.openstreetmap.org/node/5339103821,22.5349694,88.3537862,OpenStreetMap,2026-11-01T10:27:42.238182+00:00
+বেইজিং রেঁস্তোরা,chinese,,,"105, Topsia North Road, Kolkata, 700046",,node/5349341783,https://www.openstreetmap.org/node/5349341783,22.5465213,88.387096,OpenStreetMap,2026-11-01T10:27:42.238197+00:00
+The South Indian,,,,,,node/5414029822,https://www.openstreetmap.org/node/5414029822,22.540289,88.3650923,OpenStreetMap,2026-11-01T10:27:42.238205+00:00
+Mission Vegetarian Cafe,,,,"Raja Subosh Chandra Mallik Road, Kolkata",,node/5450195823,https://www.openstreetmap.org/node/5450195823,22.5154121,88.3680977,OpenStreetMap,2026-11-01T10:27:42.238215+00:00
+Shiraz,,,,,,node/5576449365,https://www.openstreetmap.org/node/5576449365,22.5771509,88.4108575,OpenStreetMap,2026-11-01T10:27:42.238224+00:00
+Hard Rock Cafe,american,,,,,node/5598648922,https://www.openstreetmap.org/node/5598648922,22.552346,88.3533112,OpenStreetMap,2026-11-01T10:27:42.238233+00:00
+Machhranga Airconditioned Multi Cuisine,indian;chinese;asian,,,EM Bypass,,node/5744988924,https://www.openstreetmap.org/node/5744988924,22.4714228,88.3891649,OpenStreetMap,2026-11-01T10:27:42.238241+00:00
+Dawat,indian,,,Camac Street,,node/5745581821,https://www.openstreetmap.org/node/5745581821,22.545692,88.3528932,OpenStreetMap,2026-11-01T10:27:42.238250+00:00
+My Little Kitchen,,,,Dum Dum Road,,node/5832603187,https://www.openstreetmap.org/node/5832603187,22.6214919,88.4015878,OpenStreetMap,2026-11-01T10:27:42.238258+00:00
+Sher-e-Punjab,,,,,,node/5996504475,https://www.openstreetmap.org/node/5996504475,22.6776506,88.4466409,OpenStreetMap,2026-11-01T10:27:42.238266+00:00
+Zaika,chinese;indian;regional;pizza;burger,,,,,node/6126110985,https://www.openstreetmap.org/node/6126110985,22.5152547,88.3654717,OpenStreetMap,2026-11-01T10:27:42.238274+00:00
+New Arafat Restaurant & Cat,fish;breakfast;asian;beef_bowl;diner;kebab;indian;curry,,,"75B, Rafi Ahmad Kidwai Road, 700016",,node/6126300686,https://www.openstreetmap.org/node/6126300686,22.5563102,88.3572939,OpenStreetMap,2026-11-01T10:27:42.238286+00:00
+Bar-B-Q,chinese,,,,,node/6135362105,https://www.openstreetmap.org/node/6135362105,22.5529418,88.3527648,OpenStreetMap,2026-11-01T10:27:42.238294+00:00
+Teekha,,,,,,node/6135362917,https://www.openstreetmap.org/node/6135362917,22.5328706,88.3650175,OpenStreetMap,2026-11-01T10:27:42.238303+00:00
+The Accord,,,,"4, Royd Street, 700016",https://accord-family-restaurant.business.site/,node/6135363550,https://www.openstreetmap.org/node/6135363550,22.5529317,88.3542465,OpenStreetMap,2026-11-01T10:27:42.238312+00:00
+Oasis,indian;chinese,,,,,node/6135364596,https://www.openstreetmap.org/node/6135364596,22.5532246,88.3524637,OpenStreetMap,2026-11-01T10:27:42.238321+00:00
+Silver Grill,,,,,,node/6135364805,https://www.openstreetmap.org/node/6135364805,22.5528604,88.3524108,OpenStreetMap,2026-11-01T10:27:42.238329+00:00
+Sunset,,,,,,node/6135364809,https://www.openstreetmap.org/node/6135364809,22.5585521,88.3521331,OpenStreetMap,2026-11-01T10:27:42.238337+00:00
+Tung Fong,,,,,,node/6138458286,https://www.openstreetmap.org/node/6138458286,22.5533895,88.3532362,OpenStreetMap,2026-11-01T10:27:42.238345+00:00
+Sol,,,,,,node/6143228719,https://www.openstreetmap.org/node/6143228719,22.5586286,88.350755,OpenStreetMap,2026-11-01T10:27:42.238354+00:00
+Kasturi,,,,"6/2, Sudder Street, Kolkata, 700016",,node/6143232471,https://www.openstreetmap.org/node/6143232471,22.5580361,88.3542614,OpenStreetMap,2026-11-01T10:27:42.238363+00:00
+Floriana,,,,,,node/6143233351,https://www.openstreetmap.org/node/6143233351,22.5530706,88.3512822,OpenStreetMap,2026-11-01T10:27:42.238374+00:00
+Gangaur,,,,,,node/6143233353,https://www.openstreetmap.org/node/6143233353,22.5526466,88.3506926,OpenStreetMap,2026-11-01T10:27:42.238384+00:00
+Don Giovanni's Pizza,italian,,,,,node/6143233736,https://www.openstreetmap.org/node/6143233736,22.5531757,88.3534139,OpenStreetMap,2026-11-01T10:27:42.238415+00:00
+Waldorf,chinese,,,,,node/6143233780,https://www.openstreetmap.org/node/6143233780,22.5531699,88.3513146,OpenStreetMap,2026-11-01T10:27:42.238429+00:00
+Moulin Rouge,,,,,,node/6144989919,https://www.openstreetmap.org/node/6144989919,22.5533015,88.3524021,OpenStreetMap,2026-11-01T10:27:42.238440+00:00
+Gangotri 100% pure veg & pure awesome,,,,,,node/6297081786,https://www.openstreetmap.org/node/6297081786,22.5721607,88.353319,OpenStreetMap,2026-11-01T10:27:42.238449+00:00
+Mystic Yoga Cafe & Studio,,,,,https://mysticyoga.in/,node/6299151685,https://www.openstreetmap.org/node/6299151685,22.5175261,88.3595099,OpenStreetMap,2026-11-01T10:27:42.238457+00:00
+Govinda's,indian,,,"3C, Albert Road",https://www.iskconkolkata.com/,node/6357619086,https://www.openstreetmap.org/node/6357619086,22.5437593,88.3536486,OpenStreetMap,2026-11-01T10:27:42.238466+00:00
+PANNA SWEETS,,,,"Brahmo Samaj Road, 700034",,node/6474490785,https://www.openstreetmap.org/node/6474490785,22.499211,88.3170796,OpenStreetMap,2026-11-01T10:27:42.238475+00:00
+Chili's,tex-mex,,,,,node/6698978096,https://www.openstreetmap.org/node/6698978096,22.5387204,88.3656254,OpenStreetMap,2026-11-01T10:27:42.238495+00:00
+Momo I Am,asian;chinese,,,"CD18, 2nd Cross Road, Kolkata, 700064",https://momoiam.in,node/6700782253,https://www.openstreetmap.org/node/6700782253,22.5904744,88.4082609,OpenStreetMap,2026-11-01T10:27:42.238504+00:00
+Santa's Fantasea,seafood;chinese,,,"BF189, 5th Cross Road, Kolkata, 700064",,node/6700794347,https://www.openstreetmap.org/node/6700794347,22.5949904,88.4207912,OpenStreetMap,2026-11-01T10:27:42.238513+00:00
+Oudh 1590,awadhi;mughlai,,,"86, 2nd Avenue, Kolkata, 700064",,node/6700824101,https://www.openstreetmap.org/node/6700824101,22.5921214,88.4118194,OpenStreetMap,2026-11-01T10:27:42.238522+00:00
+India Restaurant,mughlai;indian;chinese,,,"34, Karl Marx Sarani, Kolkata, 700023",,node/6700835187,https://www.openstreetmap.org/node/6700835187,22.5388442,88.3222081,OpenStreetMap,2026-11-01T10:27:42.238530+00:00
+Sheesh Mahal Restaurant,indian;mughlai,,,"28, Karl Marx Sarani, Kolkata, 700023",,node/6700906072,https://www.openstreetmap.org/node/6700906072,22.5388656,88.3224118,OpenStreetMap,2026-11-01T10:27:42.238539+00:00
+Cafe HQ,,,,,,node/6907625185,https://www.openstreetmap.org/node/6907625185,22.5092086,88.3453238,OpenStreetMap,2026-11-01T10:27:42.238549+00:00
+Biswa Bangla Gate,regional;chinese;sandwich;kebab;indian;asian;chicken;seafood;fish_and_chips,,,"New Town, Action Area I, Newtown, Kolkata, 700156",,node/6914595709,https://www.openstreetmap.org/node/6914595709,22.5788545,88.4716628,OpenStreetMap,2026-11-01T10:27:42.238558+00:00
+Mission Cafe,,,,,,node/7029295993,https://www.openstreetmap.org/node/7029295993,22.5679992,88.355599,OpenStreetMap,2026-11-01T10:27:42.238567+00:00
+Hondo’s Burgers,,,,,,node/7030533385,https://www.openstreetmap.org/node/7030533385,22.5021606,88.3540416,OpenStreetMap,2026-11-01T10:27:42.238578+00:00
+Biggies Burgers ‘n’ More,,,,,,node/7030539485,https://www.openstreetmap.org/node/7030539485,22.5497952,88.3503077,OpenStreetMap,2026-11-01T10:27:42.238589+00:00
+FORKSTRUCK,,,,,,node/7030561885,https://www.openstreetmap.org/node/7030561885,22.503073,88.3582982,OpenStreetMap,2026-11-01T10:27:42.238598+00:00
+Fabbrica,,,,"8A, Allenby Lane, 700020",,node/7030576887,https://www.openstreetmap.org/node/7030576887,22.5367944,88.3511606,OpenStreetMap,2026-11-01T10:27:42.238607+00:00
+Shree Ram Dhaba,,,,,,node/7030754397,https://www.openstreetmap.org/node/7030754397,22.5793315,88.3589352,OpenStreetMap,2026-11-01T10:27:42.238615+00:00
+Thakur Mahal,,,,,,node/7030789485,https://www.openstreetmap.org/node/7030789485,22.5810063,88.3562311,OpenStreetMap,2026-11-01T10:27:42.238625+00:00
+The Chutney Co.,,,,,,node/7030815685,https://www.openstreetmap.org/node/7030815685,22.5689182,88.3491647,OpenStreetMap,2026-11-01T10:27:42.238634+00:00
+Jai Hind Dhaba,,,,,,node/7035409285,https://www.openstreetmap.org/node/7035409285,22.5331803,88.3531588,OpenStreetMap,2026-11-01T10:27:42.238642+00:00
+Street food stalls,,,,,,node/7035507885,https://www.openstreetmap.org/node/7035507885,22.5422241,88.3516001,OpenStreetMap,2026-11-01T10:27:42.238650+00:00
+North & South,,,,,,node/7037787285,https://www.openstreetmap.org/node/7037787285,22.5128986,88.3485451,OpenStreetMap,2026-11-01T10:27:42.238658+00:00
+Bombay Kulfi,,,,,,node/7037787385,https://www.openstreetmap.org/node/7037787385,22.5128099,88.3488742,OpenStreetMap,2026-11-01T10:27:42.238666+00:00
+Ozora,indian,,,,,node/7040037785,https://www.openstreetmap.org/node/7040037785,22.5153616,88.3934151,OpenStreetMap,2026-11-01T10:27:42.238677+00:00
+Barbeque Nation,barbecue,,,700071,https://www.barbequenation.com/restaurants/kolkata/park-street,node/7052222455,https://www.openstreetmap.org/node/7052222455,22.5510505,88.3539733,OpenStreetMap,2026-11-01T10:27:42.238693+00:00
+Koshe Kosha,bengali,,,"1/1C, Ripon Street, 700016",,node/7053793930,https://www.openstreetmap.org/node/7053793930,22.5537095,88.3544382,OpenStreetMap,2026-11-01T10:27:42.238710+00:00
+Gabber's Bar and Kitchen,,,,,,node/7055148104,https://www.openstreetmap.org/node/7055148104,22.5474409,88.3506739,OpenStreetMap,2026-11-01T10:27:42.238719+00:00
+Carpe Diem,,,,,,node/7056105395,https://www.openstreetmap.org/node/7056105395,22.5522713,88.3522881,OpenStreetMap,2026-11-01T10:27:42.238727+00:00
+SN Shaw and BP Shaw,,,,,,node/7059347949,https://www.openstreetmap.org/node/7059347949,22.5546358,88.3539654,OpenStreetMap,2026-11-01T10:27:42.238735+00:00
+Mocambo,,,,,,node/7059574504,https://www.openstreetmap.org/node/7059574504,22.5532467,88.3531768,OpenStreetMap,2026-11-01T10:27:42.238745+00:00
+MamaGoto,,,,,http://mamagoto.in,node/7059693020,https://www.openstreetmap.org/node/7059693020,22.5517162,88.3535019,OpenStreetMap,2026-11-01T10:27:42.238753+00:00
+Bojangles,,,,,,node/7233967786,https://www.openstreetmap.org/node/7233967786,22.5255315,88.3575909,OpenStreetMap,2026-11-01T10:27:42.238765+00:00
+Spice Of Joy,,,,,https://spiceofjoy.com,node/7265806834,https://www.openstreetmap.org/node/7265806834,22.5037538,88.3761283,OpenStreetMap,2026-11-01T10:27:42.238773+00:00
+Fiesta,,,,,,node/7515235052,https://www.openstreetmap.org/node/7515235052,22.5800363,88.3046276,OpenStreetMap,2026-11-01T10:27:42.238782+00:00
+Steak Factory,,,,,,node/8011950434,https://www.openstreetmap.org/node/8011950434,22.5109639,88.3482253,OpenStreetMap,2026-11-01T10:27:42.238799+00:00
+Zucca Lounge,,,,,,node/8011950442,https://www.openstreetmap.org/node/8011950442,22.5164263,88.3604145,OpenStreetMap,2026-11-01T10:27:42.238806+00:00
+Captain's Deck Bar and Grill,,,,,,node/8011950451,https://www.openstreetmap.org/node/8011950451,22.5142545,88.3633308,OpenStreetMap,2026-11-01T10:27:42.238814+00:00
+Tandoor,regional,,,,,node/8011950456,https://www.openstreetmap.org/node/8011950456,22.5172815,88.3670507,OpenStreetMap,2026-11-01T10:27:42.238826+00:00
+Ikura - Flavours of Pan Asia,chinese;japanese,,,"33/33 CIT Market, Chetla Central Rd, Kolkata, 700027",,node/8484372103,https://www.openstreetmap.org/node/8484372103,22.5171633,88.3347548,OpenStreetMap,2026-11-01T10:27:42.238843+00:00
+Loading Tummy,fish_and_chips;pizza;burger;sandwich,,,"11A, Beninandan Street, Kolkata, 700025",https://loadingtummy.com,node/8543466091,https://www.openstreetmap.org/node/8543466091,22.5370729,88.3436743,OpenStreetMap,2026-11-01T10:27:42.238854+00:00
+الحبیب بریانی سینٹر,indian;kebab,,,Paharpur Road,,node/8837017017,https://www.openstreetmap.org/node/8837017017,22.5478268,88.2872604,OpenStreetMap,2026-11-01T10:27:42.238863+00:00
+KATHI JUNCTION,rolls,,,,,node/8974662254,https://www.openstreetmap.org/node/8974662254,22.643894,88.4595662,OpenStreetMap,2026-11-01T10:27:42.238871+00:00
+New Madras Tiffin,,,,,,node/9052559015,https://www.openstreetmap.org/node/9052559015,22.5967472,88.3709013,OpenStreetMap,2026-11-01T10:27:42.238879+00:00
+Chowman,,,,,,node/9379888439,https://www.openstreetmap.org/node/9379888439,22.4892945,88.3168949,OpenStreetMap,2026-11-01T10:27:42.238888+00:00
+Bhatura Singh - Kankurgachi,,,,"p8, CIT Road, 700054",https://krazee-kulcha.business.site/,node/9462819519,https://www.openstreetmap.org/node/9462819519,22.5844866,88.3909972,OpenStreetMap,2026-11-01T10:27:42.238896+00:00
+Honey da dhaba,,,,"p-54, CIT Road, 700054",,node/9527985217,https://www.openstreetmap.org/node/9527985217,22.5849596,88.3916315,OpenStreetMap,2026-11-01T10:27:42.238905+00:00
+033 4044 2294,,,,"DC 27/26, 2nd Cross Road, 700064",,node/9537536817,https://www.openstreetmap.org/node/9537536817,22.58956,88.4084577,OpenStreetMap,2026-11-01T10:27:42.238913+00:00
+Jolly Jecker,,,,,,node/9586006754,https://www.openstreetmap.org/node/9586006754,22.5607022,88.4937043,OpenStreetMap,2026-11-01T10:27:42.238922+00:00
+HONG KONG,chinese,,,"CIT Road, 700054",,node/9591589417,https://www.openstreetmap.org/node/9591589417,22.5823248,88.3909345,OpenStreetMap,2026-11-01T10:27:42.238930+00:00
+Sabir hotel,,,,"3,5, Chandi Chowk Street, 700072",,node/9609438817,https://www.openstreetmap.org/node/9609438817,22.5668511,88.3560252,OpenStreetMap,2026-11-01T10:27:42.238944+00:00
+Banyan tree pure veg green kitchen,,,,,,node/9638686517,https://www.openstreetmap.org/node/9638686517,22.6014489,88.4071206,OpenStreetMap,2026-11-01T10:27:42.238952+00:00
+Rose,,,,,,node/9638691617,https://www.openstreetmap.org/node/9638691617,22.6012387,88.4063093,OpenStreetMap,2026-11-01T10:27:42.238961+00:00
+Bengal dhaba,,,,,,node/9640621117,https://www.openstreetmap.org/node/9640621117,22.5942645,88.3967592,OpenStreetMap,2026-11-01T10:27:42.238981+00:00
+Aminia,mughlai_cuisine,,,"166, Jessore Road, Kolkata, 700055",https://www.aminia.co.in/aminia-jessore-road,node/9992983419,https://www.openstreetmap.org/node/9992983419,22.6150903,88.4119743,OpenStreetMap,2026-11-01T10:27:42.238998+00:00
+Aminia Restaurant,indian;kebab,,,"94, Bidhan Sarani, 700004",https://www.aminia.co.in/aminia-shyambazar,node/9993017417,https://www.openstreetmap.org/node/9993017417,22.5988571,88.3726721,OpenStreetMap,2026-11-01T10:27:42.239006+00:00
+Aminia Restaurant - Rajarhat,indian,,,"Rajarhat Road, 700136",https://www.aminia.co.in/aminia-rajarhat,node/9993033317,https://www.openstreetmap.org/node/9993033317,22.6229192,88.441754,OpenStreetMap,2026-11-01T10:27:42.239015+00:00
+Barbeque Nation,barbecue,,,"68, Diamond City Mall (5th Floor), Jessore Road, Kolkata, 700055",https://www.barbequenation.com/restaurants/kolkata/diamond-plaza,node/10057179401,https://www.openstreetmap.org/node/10057179401,22.6156583,88.4123436,OpenStreetMap,2026-11-01T10:27:42.239027+00:00
+WTF! Where's The Food,,,,"Jessore Road, Kolkata, 700055",,node/10057179710,https://www.openstreetmap.org/node/10057179710,22.6148933,88.411587,OpenStreetMap,2026-11-01T10:27:42.239038+00:00
+IRCTC RESTAURANT CUM FOOD PLAZA (SEALDAH),,,,,,node/10091478920,https://www.openstreetmap.org/node/10091478920,22.5672276,88.3709187,OpenStreetMap,2026-11-01T10:27:42.239047+00:00
+The Irish House,,,,700052,https://www.theirishhouse.in/,node/10091533517,https://www.openstreetmap.org/node/10091533517,22.6434051,88.4393528,OpenStreetMap,2026-11-01T10:27:42.239055+00:00
+7 Pack Restaurant & Bar,,,,,,node/10091536917,https://www.openstreetmap.org/node/10091536917,22.6431965,88.4389065,OpenStreetMap,2026-11-01T10:27:42.239063+00:00
+The Bengal Rowing Club (BRC),,,,"13/2, Baroj Road, 700029",https://www.bengalrowingclub.com/,node/10091550717,https://www.openstreetmap.org/node/10091550717,22.5095539,88.3547893,OpenStreetMap,2026-11-01T10:27:42.239072+00:00
+Kolkata@99,,,,,,node/10092532717,https://www.openstreetmap.org/node/10092532717,22.5837959,88.4351768,OpenStreetMap,2026-11-01T10:27:42.239080+00:00
+The Punjab Mirchi,,,,"AN Block, 700102",,node/10092532718,https://www.openstreetmap.org/node/10092532718,22.5836175,88.4347856,OpenStreetMap,2026-11-01T10:27:42.239089+00:00
+Yummy Puds,,,,,,node/10093193617,https://www.openstreetmap.org/node/10093193617,22.5835442,88.434623,OpenStreetMap,2026-11-01T10:27:42.239097+00:00
+Prema Vilas,,,,"63/1, Rash Behari Avenue, 700026",,node/10093193618,https://www.openstreetmap.org/node/10093193618,22.5172125,88.3488896,OpenStreetMap,2026-11-01T10:27:42.239105+00:00
+Biryani Bhai,,,,,,node/10224516054,https://www.openstreetmap.org/node/10224516054,22.6441532,88.439657,OpenStreetMap,2026-11-01T10:27:42.239113+00:00
+The Grub Club,pizza;burger;regional,,,"102, Ballygunge Gardens",,node/10247548409,https://www.openstreetmap.org/node/10247548409,22.515414,88.3655724,OpenStreetMap,2026-11-01T10:27:42.239133+00:00
+Diner 49B,,,,,,node/10248563609,https://www.openstreetmap.org/node/10248563609,22.5076826,88.3652783,OpenStreetMap,2026-11-01T10:27:42.239141+00:00
+Calcutta 64,,,,,,node/10651584806,https://www.openstreetmap.org/node/10651584806,22.5934596,88.4059146,OpenStreetMap,2026-11-01T10:27:42.239149+00:00
+Azad Hind Dhaba,,,,Purna Das Road,,node/10880147305,https://www.openstreetmap.org/node/10880147305,22.5171756,88.3613853,OpenStreetMap,2026-11-01T10:27:42.239157+00:00
+Ashirvad Biriyani,,,,,,node/10932170716,https://www.openstreetmap.org/node/10932170716,22.7250872,88.4789697,OpenStreetMap,2026-11-01T10:27:42.239165+00:00
+biswa bangla gate,,,,,,node/10960407342,https://www.openstreetmap.org/node/10960407342,22.5786343,88.471698,OpenStreetMap,2026-11-01T10:27:42.239173+00:00
+aminia restaurant,,,,,,node/10960407376,https://www.openstreetmap.org/node/10960407376,22.623332,88.4421608,OpenStreetMap,2026-11-01T10:27:42.239181+00:00
+Hotel Sidheshwari Ashram,,,,"19, Rani Rashmoni Road, Esplanade, Dakshineswar, Kolkata, West Bengal 700087",,node/11038783005,https://www.openstreetmap.org/node/11038783005,22.5612587,88.3552978,OpenStreetMap,2026-11-01T10:27:42.239189+00:00
+"Foodjet,dumdum",,,,"E/P 55B kunja mallik bug, Dum Dum Road, Kolkata, 700030",,node/11172393692,https://www.openstreetmap.org/node/11172393692,22.6195485,88.3937234,OpenStreetMap,2026-11-01T10:27:42.239198+00:00
+Bamboo Shoot,chinese;sandwich;chicken;asian,,,,,node/11272663351,https://www.openstreetmap.org/node/11272663351,22.4413515,88.395734,OpenStreetMap,2026-11-01T10:27:42.239230+00:00
+Brothers Kitchen,,,,,,node/11300082467,https://www.openstreetmap.org/node/11300082467,22.4772428,88.3817617,OpenStreetMap,2026-11-01T10:27:42.239239+00:00
+Kasturi Ac Resturant,,,,,,node/11300086106,https://www.openstreetmap.org/node/11300086106,22.4964088,88.3679384,OpenStreetMap,2026-11-01T10:27:42.239248+00:00
+Katheleen,,,,,,node/11300155809,https://www.openstreetmap.org/node/11300155809,22.4766369,88.3818877,OpenStreetMap,2026-11-01T10:27:42.239258+00:00
+Rashika South Indian Snacks,,,,,,node/11300199334,https://www.openstreetmap.org/node/11300199334,22.4772364,88.3777401,OpenStreetMap,2026-11-01T10:27:42.239266+00:00
+Chez,,,,,,node/11300205367,https://www.openstreetmap.org/node/11300205367,22.4764077,88.3761474,OpenStreetMap,2026-11-01T10:27:42.239275+00:00
+7th Mandeville Multi Cuisine Restro,regional;burger;pizza,,,"8, Mandeville Gardens",,node/11422209467,https://www.openstreetmap.org/node/11422209467,22.5249092,88.3662765,OpenStreetMap,2026-11-01T10:27:42.239284+00:00
+S Cuisine,regional,,,"65/109, Rishra",,node/11425057701,https://www.openstreetmap.org/node/11425057701,22.7241826,88.3418628,OpenStreetMap,2026-11-01T10:27:42.239294+00:00
+Benfish,chinese;indian,,,"Tala Park Path, 700037",,node/11428279469,https://www.openstreetmap.org/node/11428279469,22.6072347,88.3828559,OpenStreetMap,2026-11-01T10:27:42.239305+00:00
+MOMO HUY,chinese,,,"Tara Sankar Sarani, 700037",,node/11428279470,https://www.openstreetmap.org/node/11428279470,22.6076765,88.3839103,OpenStreetMap,2026-11-01T10:27:42.239314+00:00
+BAKE AND GRILL PIZZA,pizza;burger;sandwich,,,"Thakurpukur bakhrahat road, kolkata, 743377",,node/11434325066,https://www.openstreetmap.org/node/11434325066,22.3908911,88.2188412,OpenStreetMap,2026-11-01T10:27:42.239325+00:00
+Charkol,regional,,,,,node/11472928209,https://www.openstreetmap.org/node/11472928209,22.7230078,88.347339,OpenStreetMap,2026-11-01T10:27:42.239334+00:00
+Wow Momo,chinese,,,"N K Banerjee street, N K Banerjee Street",,node/11472928211,https://www.openstreetmap.org/node/11472928211,22.7231493,88.3462199,OpenStreetMap,2026-11-01T10:27:42.239342+00:00
+Idlygo,indian,,,,,node/11655595569,https://www.openstreetmap.org/node/11655595569,22.5446896,88.3552612,OpenStreetMap,2026-11-01T10:27:42.239351+00:00
+Mojo Pizza,pizza,,,,,node/11836940144,https://www.openstreetmap.org/node/11836940144,22.6305717,88.4241487,OpenStreetMap,2026-11-01T10:27:42.239359+00:00
+THE DELHI DURBAR RESTAURANT,indian,,,"51, Bijoy Kumar Mukherjee Road, Howrah, 711106",www.theindiandurbar.com,node/12011718875,https://www.openstreetmap.org/node/12011718875,22.5948737,88.3414617,OpenStreetMap,2026-11-01T10:27:42.239371+00:00
+Swastineer Canteen,chicken;chinese;indian;noodle;regional,,,"6/1, 700091",,node/12206764159,https://www.openstreetmap.org/node/12206764159,22.5809684,88.4248515,OpenStreetMap,2026-11-01T10:27:42.239381+00:00
+Blue Plum,chicken;chinese;indian;noodle;regional;coffee_shop;ice_cream,,,,,node/12206764160,https://www.openstreetmap.org/node/12206764160,22.5812978,88.4246132,OpenStreetMap,2026-11-01T10:27:42.239402+00:00
+Shamshiji Restaurant & Caterer,indian;mughlai;regional;curry;sandwich;kebab;biryani,,,"83/1, Topsia Road (south), Kolkata, 700046",https://www.shamshiji.com/home,node/12241456150,https://www.openstreetmap.org/node/12241456150,22.5415255,88.3856896,OpenStreetMap,2026-11-01T10:27:42.239415+00:00
+idlyGo Xpress,indian,,,"164, CIT Road, 700054",https://idlygo.com/,node/12288417001,https://www.openstreetmap.org/node/12288417001,22.5917067,88.3922961,OpenStreetMap,2026-11-01T10:27:42.239424+00:00
+Sizzle Club n Dine Restaurant,,,,"Imagine Techpark, Grounds, Salt Lake Bypass, DP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091, Salt Lake Sector 5, 700091",https://www.sizzleclubndine.co.in/,node/12289848051,https://www.openstreetmap.org/node/12289848051,22.5723916,88.4325857,OpenStreetMap,2026-11-01T10:27:42.239436+00:00
+Chai Break - Foreshoreroad,pizza;coffee_shop;burger;italian;sandwich;mexican;indian;thai;american;dessert,,,"99, Foreshore Road, 1A, 711102",https://www.chaibreak.com/,node/12343766872,https://www.openstreetmap.org/node/12343766872,22.5638704,88.3269969,OpenStreetMap,2026-11-01T10:27:42.239445+00:00
+Bamboo (Modern Asian Cuisine),asian,,,"27A/1, Mahendra Roy Lane, 700046",,node/12350827305,https://www.openstreetmap.org/node/12350827305,22.5443742,88.3810137,OpenStreetMap,2026-11-01T10:27:42.239453+00:00
+Eau Chew Restaurant,chinese,,,,,node/12464184628,https://www.openstreetmap.org/node/12464184628,22.5685947,88.3543928,OpenStreetMap,2026-11-01T10:27:42.239462+00:00
+Oudh 1590,awadhi,,,"Premises No. A/2C (W/P), Chowringhee Mansions, Doctor Mohammad Ishaque Road, Kolkata, 700016",https://oudh1590.com,node/12552021738,https://www.openstreetmap.org/node/12552021738,22.5558309,88.3507366,OpenStreetMap,2026-11-01T10:27:42.239471+00:00
+Trincas,,,,"17, Park Street, Kolkata, 700016",https://www.trincas.in,node/12567355137,https://www.openstreetmap.org/node/12567355137,22.5541391,88.3515875,OpenStreetMap,2026-11-01T10:27:42.239479+00:00
+MISTI MUKH,,,,,,node/12581356766,https://www.openstreetmap.org/node/12581356766,22.5136588,88.3927524,OpenStreetMap,2026-11-01T10:27:42.239488+00:00
+Hotel Indrani Restaurant,indian,,,,,node/12598797426,https://www.openstreetmap.org/node/12598797426,22.6215947,88.4046399,OpenStreetMap,2026-11-01T10:27:42.239496+00:00
+"Darao, Pothik-Bor",,,,,https://www.zomato.com/kolkata/darao-pothik-bor-dum-dum,node/12606460865,https://www.openstreetmap.org/node/12606460865,22.6201602,88.3956197,OpenStreetMap,2026-11-01T10:27:42.239507+00:00
+Dui Bhai Hotel,,,,,,node/12606460867,https://www.openstreetmap.org/node/12606460867,22.6210968,88.4007802,OpenStreetMap,2026-11-01T10:27:42.239516+00:00
+Royal Biriyani,,,,,,node/12745630001,https://www.openstreetmap.org/node/12745630001,22.6605147,88.3900163,OpenStreetMap,2026-11-01T10:27:42.239526+00:00
+Flame And Grill,indian,,,"375, Prince Anwar Shah Road, Kolkata, 700068",,node/12920296961,https://www.openstreetmap.org/node/12920296961,22.5014304,88.3610539,OpenStreetMap,2026-11-01T10:27:42.239535+00:00
+Riyasat,indian,,,"375, Prince Anwar Shah Road, Kolkata, 700068",https://speciality.co.in/,node/12983025517,https://www.openstreetmap.org/node/12983025517,22.5013968,88.3611232,OpenStreetMap,2026-11-01T10:27:42.239543+00:00
+OG By The Lake,chinese;indian;italian;sushi;thai,,,"11A, E Topsia Road, Kolkata, 700046",,node/12994215783,https://www.openstreetmap.org/node/12994215783,22.5392366,88.3928999,OpenStreetMap,2026-11-01T10:27:42.239552+00:00
+Agarwal's Kitchen,,,,,,node/13020929279,https://www.openstreetmap.org/node/13020929279,22.5847897,88.4325866,OpenStreetMap,2026-11-01T10:27:42.239560+00:00
+Mitra Cafe,,,,,,node/13023099259,https://www.openstreetmap.org/node/13023099259,22.6194826,88.3918249,OpenStreetMap,2026-11-01T10:27:42.239568+00:00
+Mezban biryani,,,,,,node/13186572101,https://www.openstreetmap.org/node/13186572101,22.6199456,88.3944735,OpenStreetMap,2026-11-01T10:27:42.239576+00:00
+Peter Hu?,asian,,,"Park Street, 700016",https://www.instagram.com/peterhucalcutta/,node/13188446901,https://www.openstreetmap.org/node/13188446901,22.5537973,88.353458,OpenStreetMap,2026-11-01T10:27:42.239584+00:00
+Bizarre Asia,asian,,,"Broadway Road, 700098",,node/13188450701,https://www.openstreetmap.org/node/13188450701,22.564648,88.4107476,OpenStreetMap,2026-11-01T10:27:42.239596+00:00
+Debonair Restaurant & Bar,chinese;indian;kebab;fish_and_chips;fish;chicken,,,"53/1, J. N. Tewari Road, Dumdum Cantonment, 700028",,node/13205504767,https://www.openstreetmap.org/node/13205504767,22.6359799,88.4142429,OpenStreetMap,2026-11-01T10:27:42.239605+00:00
+The Bhawanipur House,,,,,,node/13208111173,https://www.openstreetmap.org/node/13208111173,22.5261133,88.3478009,OpenStreetMap,2026-11-01T10:27:42.239613+00:00
+Chowman Gouribari,chinese;thai;continental;seafood,,,"118, Raja Dinendra Street, Kolkata, 700004",https://chowman.net/restaurants/chowman-gouribari-maniktala/,node/13240161770,https://www.openstreetmap.org/node/13240161770,22.5945145,88.3773853,OpenStreetMap,2026-11-01T10:27:42.239625+00:00
+Foodplex,,,,,,node/13264381270,https://www.openstreetmap.org/node/13264381270,22.6457527,88.3813361,OpenStreetMap,2026-11-01T10:27:42.239633+00:00
+Magnolia Gondhoraj,indian;bengali;chinese,,,,,node/13290063396,https://www.openstreetmap.org/node/13290063396,22.5533178,88.3519612,OpenStreetMap,2026-11-01T10:27:42.239642+00:00
+One Step Up,asian;italian,,,,,node/13290125013,https://www.openstreetmap.org/node/13290125013,22.5529535,88.3523126,OpenStreetMap,2026-11-01T10:27:42.239651+00:00
+Ilish,indian;bengali,,,"83B, Park Street, Kolkata, 700016",,node/13290125090,https://www.openstreetmap.org/node/13290125090,22.5501731,88.3552148,OpenStreetMap,2026-11-01T10:27:42.239662+00:00
+Drumstick,,,,"8, Hem Chandra Naskar Road, Kolkata, 700010",,node/13290284932,https://www.openstreetmap.org/node/13290284932,22.5640799,88.3956536,OpenStreetMap,2026-11-01T10:27:42.239672+00:00
+Corona,,,,,,node/13290499326,https://www.openstreetmap.org/node/13290499326,22.550843,88.3540382,OpenStreetMap,2026-11-01T10:27:42.239680+00:00
+Cozy Box,,,,,,node/13290845363,https://www.openstreetmap.org/node/13290845363,22.5510916,88.3532285,OpenStreetMap,2026-11-01T10:27:42.239691+00:00
+Bombastic Supper Club,,,,,,node/13290845371,https://www.openstreetmap.org/node/13290845371,22.5511267,88.3532356,OpenStreetMap,2026-11-01T10:27:42.239700+00:00
+Papaya,asian,,,,,node/13290845372,https://www.openstreetmap.org/node/13290845372,22.5510609,88.353222,OpenStreetMap,2026-11-01T10:27:42.239708+00:00
+Punjabee Rasoi,indian,,,196,,node/13299331901,https://www.openstreetmap.org/node/13299331901,22.5158957,88.392403,OpenStreetMap,2026-11-01T10:27:42.239717+00:00
+Sinha's Kitchen,indian,,,"Street Number 75, New Town, 700163",,node/13338070364,https://www.openstreetmap.org/node/13338070364,22.589584,88.4527986,OpenStreetMap,2026-11-01T10:27:42.239726+00:00
+La Bongo,indian,,,"Street Number 75, New Town, 700163",,node/13338070366,https://www.openstreetmap.org/node/13338070366,22.5894877,88.4527986,OpenStreetMap,2026-11-01T10:27:42.239734+00:00
+Pow Hing express,chinese,,,"35, Chittaranjan Avenue, 700012",,node/13340616503,https://www.openstreetmap.org/node/13340616503,22.5683231,88.3566461,OpenStreetMap,2026-11-01T10:27:42.239743+00:00
+Pow Hing,chinese,,,Sun Yat Sen Street,https://www.pouchong.com/,node/13389433701,https://www.openstreetmap.org/node/13389433701,22.5730445,88.3545662,OpenStreetMap,2026-11-01T10:27:42.239751+00:00
+Chowman (Barasat),chinese,,,,https://chowman.net/,node/13621885719,https://www.openstreetmap.org/node/13621885719,22.7115702,88.4749173,OpenStreetMap,2026-11-01T10:27:42.239759+00:00
+Kwality,,,,,,node/13644574101,https://www.openstreetmap.org/node/13644574101,22.5538726,88.3520046,OpenStreetMap,2026-11-01T10:27:42.239781+00:00
+Spicy,,,,,,node/13645461892,https://www.openstreetmap.org/node/13645461892,22.6646974,88.3884893,OpenStreetMap,2026-11-01T10:27:42.239789+00:00
+Pizzophile,asian;bubble_tea;indian;italian;italian_pizza;pizza,,,"Majhipara, 700136",https://zomato.onelink.me/xqzv/n9v8t3m5,node/13823780901,https://www.openstreetmap.org/node/13823780901,22.6309624,88.4436119,OpenStreetMap,2026-11-01T10:27:42.239797+00:00
+D.Bapi Biriyani,,,,,,node/13875606172,https://www.openstreetmap.org/node/13875606172,22.6876833,88.4636953,OpenStreetMap,2026-11-01T10:27:42.239806+00:00
+Haji Biriyani,Biryani,,,,,node/13895391550,https://www.openstreetmap.org/node/13895391550,22.6307921,88.3792397,OpenStreetMap,2026-11-01T10:27:42.239817+00:00
+Kiraanz Oasis of Taste,pizza;chinese;indian;fast_food,,,"DG 12, Plot Number - 06/327 ACTION AREA 1A, NEWTOWN, Kolkata, 700156",https://kiraanz.com/,node/13902394248,https://www.openstreetmap.org/node/13902394248,22.5796379,88.4756236,OpenStreetMap,2026-11-01T10:27:42.239825+00:00
+Arshalan Biriyani,Biriyani,,,,,node/13914738998,https://www.openstreetmap.org/node/13914738998,22.6308525,88.3795652,OpenStreetMap,2026-11-01T10:27:42.239834+00:00
+Zestora,chinese;indian,,,,,node/13919712953,https://www.openstreetmap.org/node/13919712953,22.6295648,88.3807491,OpenStreetMap,2026-11-01T10:27:42.239842+00:00
+la komida,chinese;kebab;noodle;barbecue,,,"kolkata, 700031",,node/13982189170,https://www.openstreetmap.org/node/13982189170,22.503656,88.3751702,OpenStreetMap,2026-11-01T10:27:42.239852+00:00
+On the roof cafe,,,,"CIT Road, 700054",,node/13989310601,https://www.openstreetmap.org/node/13989310601,22.5750702,88.389257,OpenStreetMap,2026-11-01T10:27:42.239861+00:00
+Little Beijing,,,,"74/1/36, Raipur Road, 700032",,node/14114120801,https://www.openstreetmap.org/node/14114120801,22.4913923,88.3652049,OpenStreetMap,2026-11-01T10:27:42.239872+00:00
+সাত ভাই হোটেল এন্ড রেস্টুরেন্ট,,,,,,node/14293788703,https://www.openstreetmap.org/node/14293788703,22.6196545,88.3919869,OpenStreetMap,2026-11-01T10:27:42.239890+00:00
+The Friend's Home,south_indian;north_indian;sandwich,,,,,node/14297428037,https://www.openstreetmap.org/node/14297428037,22.5607015,88.351758,OpenStreetMap,2026-11-01T10:27:42.239899+00:00
+The Flavourian Odyssey,chinese;south_indian;biryani,,,,,node/14322647115,https://www.openstreetmap.org/node/14322647115,22.5644999,88.4934563,OpenStreetMap,2026-11-01T10:27:42.239907+00:00
+44,,,,,,way/235256262,https://www.openstreetmap.org/way/235256262,22.590617,88.3985976,OpenStreetMap,2026-11-01T10:27:42.239917+00:00
+Jhaal Farezi,regional,,,,,way/249209036,https://www.openstreetmap.org/way/249209036,22.5424984,88.3648681,OpenStreetMap,2026-11-01T10:27:42.239927+00:00
+Adamas,,,,,,way/357395460,https://www.openstreetmap.org/way/357395460,22.7353782,88.4567417,OpenStreetMap,2026-11-01T10:27:42.239935+00:00
+Rath,,,,,,way/357778145,https://www.openstreetmap.org/way/357778145,22.6639567,88.3764064,OpenStreetMap,2026-11-01T10:27:42.239943+00:00
+Arsalan Restaurant & Caterar,mughlai_cuisine,,,"123, Jessore Road, Kolkata, 700055",https://arsalanrestaurants.com/,way/358734784,https://www.openstreetmap.org/way/358734784,22.612332,88.4111401,OpenStreetMap,2026-11-01T10:27:42.239965+00:00
+Kowloon,chinese,,,,,way/358763246,https://www.openstreetmap.org/way/358763246,22.5090926,88.3337494,OpenStreetMap,2026-11-01T10:27:42.239974+00:00
+Tandoor Park,,,,"4, Gariahat Road, Kolkata, 700031",http://www.tandoorpark.com/,way/358819089,https://www.openstreetmap.org/way/358819089,22.5065538,88.3673187,OpenStreetMap,2026-11-01T10:27:42.239984+00:00
+Tym Pass,,,,"62, Rai Mohan Banerjee Road, Kolkata, 700108",www.tympasscafe.com,way/358874477,https://www.openstreetmap.org/way/358874477,22.6458815,88.3807836,OpenStreetMap,2026-11-01T10:27:42.239993+00:00
+Azad Hind Dhaba,,,,"New Town, Kolkata",,way/358879070,https://www.openstreetmap.org/way/358879070,22.5778988,88.4820497,OpenStreetMap,2026-11-01T10:27:42.240002+00:00
+Byepass Dhaba,indian,,,"1A, Bangaon - Kulpi Rd, Kolkata, 700105",https://www.byepassdhaba.com/,way/359140132,https://www.openstreetmap.org/way/359140132,22.5527076,88.4059676,OpenStreetMap,2026-11-01T10:27:42.240015+00:00
+Kasturi Restaurant,Bengali,,,"Jessore Road, Near Diamond Plaza Mall, Amarpalli, South Dumdum, Kolkata, 700055",,way/359152081,https://www.openstreetmap.org/way/359152081,22.6149998,88.4115991,OpenStreetMap,2026-11-01T10:27:42.240027+00:00
+Ikura - Flavours of Pan Asia,japanese;chinese,,,,,way/359302479,https://www.openstreetmap.org/way/359302479,22.5171504,88.3347424,OpenStreetMap,2026-11-01T10:27:42.240036+00:00
+tandor house,regional,,,,,way/359744763,https://www.openstreetmap.org/way/359744763,22.5158041,88.3487965,OpenStreetMap,2026-11-01T10:27:42.240053+00:00
+Oudh 1590,indian;biriyani;kebab,,,,,way/359782669,https://www.openstreetmap.org/way/359782669,22.5152077,88.3583503,OpenStreetMap,2026-11-01T10:27:42.240064+00:00
+Banzara A. C. Restaurant,chinese;indian,,,"86, Ibrahimpur Road, Kolkata, 700 032",https://banzara.co.in/,way/450200119,https://www.openstreetmap.org/way/450200119,22.4949352,88.3698271,OpenStreetMap,2026-11-01T10:27:42.240073+00:00
+NKDA Market Complex,regional;chinese,,,,,way/513994244,https://www.openstreetmap.org/way/513994244,22.5732249,88.4797015,OpenStreetMap,2026-11-01T10:27:42.240081+00:00
+Dawat Restaurant,,,,,,way/513994271,https://www.openstreetmap.org/way/513994271,22.5769738,88.4778933,OpenStreetMap,2026-11-01T10:27:42.240089+00:00
+Ekante Cottage,,,,,,way/673964152,https://www.openstreetmap.org/way/673964152,22.5990547,88.4661159,OpenStreetMap,2026-11-01T10:27:42.240098+00:00
+CafeGP,,,,"J J Tower, Action Area - IID, Biswa Bangla Sarani, New Town,, New Town, 700161",,way/922947208,https://www.openstreetmap.org/way/922947208,22.6205553,88.4606184,OpenStreetMap,2026-11-01T10:27:42.240107+00:00
+Waffle Wallah,,,,,,way/1009076343,https://www.openstreetmap.org/way/1009076343,22.5617657,88.4907294,OpenStreetMap,2026-11-01T10:27:42.240116+00:00
+Stadel Poolside Restaurant,,,,,,way/1028108220,https://www.openstreetmap.org/way/1028108220,22.5687984,88.4110233,OpenStreetMap,2026-11-01T10:27:42.240133+00:00
+Aashirbaad Mistanna Bhandar,sweets,,,"East Tentulberia, Nabagram Jheel Road, Kolkata, 700152",,way/1030249958,https://www.openstreetmap.org/way/1030249958,22.4637196,88.4085109,OpenStreetMap,2026-11-01T10:27:42.240142+00:00
+Cafeteria (Panda junction),chinese;chicken,,,,,way/1076253099,https://www.openstreetmap.org/way/1076253099,22.7375558,88.4575494,OpenStreetMap,2026-11-01T10:27:42.240153+00:00
+Dhamsa Tribal Kitchen,bengali;indian,,,,https://ecoparknewtown.com/dhamsatribalkitchen,way/1158240738,https://www.openstreetmap.org/way/1158240738,22.6030666,88.4659326,OpenStreetMap,2026-11-01T10:27:42.240166+00:00
+Dhaba Ajante,indian;punjabi,,,,https://ecoparknewtown.com/dhabaajante,way/1158461744,https://www.openstreetmap.org/way/1158461744,22.5940281,88.4669888,OpenStreetMap,2026-11-01T10:27:42.240174+00:00
+Hot and Spicy,,,,,,way/1238786895,https://www.openstreetmap.org/way/1238786895,22.7410066,88.4574054,OpenStreetMap,2026-11-01T10:27:42.240183+00:00
+Swadisht Junction,indian;dessert,,,"Shop No. S/252, Plot No. CB/31,, Community Market, CB Block, CB, Action Area I, New Town, 700156",,way/1372632494,https://www.openstreetmap.org/way/1372632494,22.5775617,88.4654995,OpenStreetMap,2026-11-01T10:27:42.240192+00:00
+KitchenQ,,,,,,way/1448557092,https://www.openstreetmap.org/way/1448557092,22.5642485,88.3887661,OpenStreetMap,2026-11-01T10:27:42.240201+00:00
+Biriyaanism,,,,,,way/1531956792,https://www.openstreetmap.org/way/1531956792,22.7396957,88.350453,OpenStreetMap,2026-11-01T10:27:42.240214+00:00
+Sri Sai Tiffin Centre,,,,,,way/1567420389,https://www.openstreetmap.org/way/1567420389,22.7379272,88.3511705,OpenStreetMap,2026-11-01T10:27:42.240223+00:00
+Punjab Restuaurant,indian,,,,,way/1567420394,https://www.openstreetmap.org/way/1567420394,22.7379448,88.3506963,OpenStreetMap,2026-11-01T10:27:42.240232+00:00
+Hunger Station,,,,,,way/1567420396,https://www.openstreetmap.org/way/1567420396,22.7379179,88.3510755,OpenStreetMap,2026-11-01T10:27:42.240241+00:00
+Tandoor Garden,indian,,,,,way/1567420399,https://www.openstreetmap.org/way/1567420399,22.7386791,88.3510127,OpenStreetMap,2026-11-01T10:27:42.240252+00:00
